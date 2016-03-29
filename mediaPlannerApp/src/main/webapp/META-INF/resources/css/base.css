@@ -1,0 +1,30 @@
+.svg-container {
+	width: 800px;
+	height: 800px;
+	border: 1px lightgray solid;
+}
+
+.path-style {
+	fill: black;
+	stroke: gray;
+	stroke-width: 4px;
+}
+
+.polygon-style {
+	fill: gray;
+}
+
+.line-style {
+	stroke: gray;
+	stroke-width: 2px;	
+}
+
+.circle-style {
+
+}
+
+.rectangle-style {
+	fill: pink;
+	stroke: black;
+	stroke-width: 1px;
+}
